@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Lion",
+        "description": "The lion is a majestic animal with a shaggy mane and a loud roar."
+    },
+    {
+        "name": "Giraffe",
+        "description": "The giraffe is a tall, gentle animal with a long neck and spotted fur."
+    },
+    {
+        "name": "Monkey",
+        "description": "The monkey is a agile, curious animal that lives in trees."
+    },
+    {
+        "name":"Antelope" ,
+        "description":"Graceful herbivores with horns, found in Africa and Asia."
+    },
+    {
+        "name":"Camel" ,
+        "description":"Desert animals with humps that store fat."
+    },
+    {
+        "name":"Dolphin" ,
+        "description":"Smart, playful marine mammals."
+    },
+    {
+        "name":"Eagle" ,
+        "description":"Majestic birds of prey with sharp vision."
+    },
+    {
+        "name":"Frog" ,
+        "description":"Amphibians known for leaping and croaking."
+    },
+    {
+        "name":"Hawk" ,
+        "description":"Fast-flying birds of prey."
+    },
+    {
+        "name":"Iguana" ,
+        "description":"Large lizards with spiny crests."
+    },
+    {
+        "name":"Koala" ,
+        "description":"Tree-dwelling marsupials from Australia."
+    },
+    {
+        "name":"Quail" ,
+        "description":"Small, ground-dwelling birds."
+    },
+    {
+        "name":"Rabbit" ,
+        "description":"Small mammals with long ears."
+    },
+    {
+        "name":"Snake" ,
+        "description":"Legless reptiles that slither."
+    },
+    {
+        "name":"Walrus" ,
+        "description":"Large marine mammals with tusks."
+    },
+    {
+        "name":"Aardvark" ,
+        "description":"The aardvark is a nocturnal mammal native to Africa. It has a long snout and ears similar to a rabbit's, and it primarily feeds on ants and termites."
+    },
+    {
+        "name":"Bear Bears" ,
+        "description":"re large mammals found in various habitats across the world. They are omnivorous and known for their strength and intelligence, with species like the grizzly and polar bear being particularly well-known."
+    },
+    {
+        "name":"Cat" ,
+        "description":"is a small, domesticated carnivore known for its playful and independent nature. Weighing 5 to 20 pounds, they have soft fur and excellent night vision. Cats communicate through meows and purrs, live 12 to 15 years, and are cherished as pets."
+    },
+    {
+        "name":"Dog" ,
+        "description":" is a domesticated mammal, a descendant of the gray wolf. Known for loyalty, they come in various breeds and sizes, are intelligent, and can be trained for tasks. Dogs typically live 10 to 15 years.."
+    },
+    {
+        "name":"Elephant" ,
+        "description":"is the largest land animal, recognized for its long trunk and large ears. They are social creatures that live in matriarchal herds and are known for their intelligence and memory. "
+    },
+    {
+        "name":"Falcon" ,
+        "description":"are birds of prey known for their speed and keen eyesight. They can dive at incredible speeds to catch their prey, making them skilled hunters. "
+    },
+    {
+        "name":"Hippopotamus" ,
+        "description":"is a large, mostly herbivorous mammal found in sub-Saharan Africa. They spend much of their time in water to keep cool and are known for their powerful jaws."
+    },
+    {
+        "name":"Iguana" ,
+        "description":"large lizards native to Central and South America. They are primarily herbivorous and are known for their distinctive dewlap and ability to change color."
+    },
+    {
+        "name":"Jaguar" ,
+        "description":"is a large cat native to the Americas, known for its powerful build and beautiful rosette-patterned coat. They are excellent swimmers and often hunt in water."
+    },
+    {
+        "name":"Kangaroo" ,
+        "description":"marsupials native to Australia, known for their powerful hind legs and ability to hop. They are social animals that live in groups called mobs."
+    },
+    {
+        "name":"Narwhal" ,
+        "description":"is a medium-sized whale known for its long, spiral tusk, which is actually an elongated tooth. They are often referred to as the unicorn of the sea."
+    },
+    {
+        "name":"Owl" ,
+        "description":"nocturnal birds of prey known for their distinctive hooting calls and large eyes. They have excellent night vision and are skilled hunters."
+    },
+    {
+        "name":"Penguin" ,
+        "description":"are flightless birds primarily found in the Southern Hemisphere. They are known for their distinctive black and white coloring and their ability to swim efficiently. "
+    },
+    {
+        "name":"Quokka" ,
+        "description":"small marsupial native to Australia, known for its friendly demeanor and smiling face. They are herbivorous and often found in social groups."
+    },
+    {
+        "name":"Rhinoceros" ,
+        "description":"is a large, thick-skinned herbivore known for its horn(s) on its snout. They are primarily found in Africa and Asia and are critically endangered due to poaching."
+    },
+    {
+        "name":"Shark" ,
+        "description":"a diverse group of cartilaginous fish known for their sharp teeth and keen sense of smell. They play a crucial role in marine ecosystems as apex predators."
+    },
+    {
+        "name":"Urial" ,
+        "description":"is a wild sheep found in Central and South Asia, known for its curved horns and agile nature. They inhabit mountainous regions and are social animals."
+    },
+    {
+        "name":"Vulture" ,
+        "description":"scavenging birds known for their role in the ecosystem as cleaners. They have excellent eyesight and can soar at great heights to spot carrion."
+    },
+    {
+        "name":"Wolf" ,
+        "description":" a social carnivore known for its pack behavior and complex social structures. They are found in various habitats and are known for their howling communication."
+    },
+    {
+        "name":"Xerus" ,
+        "description":"is a type of African ground squirrel known for its bushy tail and social behavior. They live in colonies and are primarily herbivorous. "
+    }
+   
+    
+
+]
